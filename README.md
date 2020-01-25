@@ -11,7 +11,7 @@ The Perceptron Classifier
   Repeat until all the data is correctly classified or maximum iterations achieved. 
 
 Input Data:
-
+'''
   N - Number of points
   
   K - Number of coordinates of a point
@@ -25,7 +25,7 @@ Input Data:
   LIMIT - the maximum number of iterations
   
   QC - Acceptable level of quality from the classifier
-  
+  '''
   The points 
   
     - location in k dimensions
