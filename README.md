@@ -11,6 +11,7 @@ The Perceptron Classifier
   Repeat until all the data is correctly classified or maximum iterations achieved. 
 
 Input Data:
+
   N - Number of points
   
   K - Number of coordinates of a point
