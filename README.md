@@ -27,6 +27,7 @@ Input Data:
 ```
     
 Output Data:
+```
   Minimum t - The earliest timeframe in which a valid result was achieved
   q - the quality of the classifier at that time
   W0
@@ -34,6 +35,7 @@ Output Data:
   .
   .
   Wk
+  ```
 
 Solution: 
   See flowchart PDF for simplified explanation of the methodology.
