@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\cudauser\desktop\project final extra val bug fixed\cuda_with_mpi_omp\cuda_with_mpi_omp\main.cpp(317): warning C4715: 'checkAllPoints': not all control paths return a value
+c:\users\cudauser\desktop\project final extra val bug fixed\cuda_with_mpi_omp\cuda_with_mpi_omp\main.cpp(252): warning C4700: uninitialized local variable 'status' used
+  Cuda_With_MPI_OMP.vcxproj -> C:\Users\cudauser\Desktop\Project final extra val bug fixed\Cuda_With_MPI_OMP\x64\Debug\Binary Classification.exe
+  Cuda_With_MPI_OMP.vcxproj -> C:\Users\cudauser\Desktop\Project final extra val bug fixed\Cuda_With_MPI_OMP\x64\Debug\Binary Classification.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart*.dll" "C:\Users\cudauser\Desktop\Project final extra val bug fixed\Cuda_With_MPI_OMP\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart32_91.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart64_91.dll
+          2 file(s) copied.
