@@ -13,18 +13,13 @@ The Perceptron Classifier
 Input Data:
 ```
   N - Number of points
-  
   K - Number of coordinates of a point
-  
   dT - Increment value of t
-  
   TMax - maximum value of t
-  
   alpha - conversion ratio
-  
   LIMIT - the maximum number of iterations
-  
   QC - Acceptable level of quality from the classifier
+  
   The points 
     location in k dimensions
     speed in k dimensions
