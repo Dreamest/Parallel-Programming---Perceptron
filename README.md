@@ -29,10 +29,8 @@ Input Data:
   The points 
   
     - location in k dimensions
-    
     - speed in k dimensions
-    
-  - point label Y = {-1, 1}
+    - point label Y = {-1, 1}
   
 Output Data:
   Minimum t - The earliest timeframe in which a valid result was achieved
